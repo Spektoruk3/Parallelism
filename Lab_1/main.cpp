@@ -17,7 +17,7 @@ int main() {
 #endif
     for (int i = 0; i < size; ++i){
         double angle = (2 * PI * i) / size;
-        array[i] = std::sin(angle);
+        array[i] = sin(angle);
     }
 
     double sum = 0.0;

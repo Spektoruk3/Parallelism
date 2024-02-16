@@ -1,0 +1,4 @@
+/home/i.spectr/Lab_1/build/CMakeFiles/main_float.dir
+/home/i.spectr/Lab_1/build/CMakeFiles/main_double.dir
+/home/i.spectr/Lab_1/build/CMakeFiles/edit_cache.dir
+/home/i.spectr/Lab_1/build/CMakeFiles/rebuild_cache.dir
